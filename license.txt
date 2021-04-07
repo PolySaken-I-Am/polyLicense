@@ -1,4 +1,4 @@
-PolySaken Free Software License 1.2:
+PolySaken Free Software License 1.3:
 Where the author(s) include:
 PolySaken (@Poly_Saken on twitter)
   
@@ -10,7 +10,7 @@ PolySaken (@Poly_Saken on twitter)
     way as to make it unreadable by a human, and the source code must always be easily acquirable. 
     Anything you add to the software is your property and you may license it as you wish, separately
     from the initial software.
-      3. You may not claim to own the original of this software, 
+      3. You may not claim to own the rights to the original version of this software, 
     and only the author(s) may claim this to be the original or official version.
       4. This software is made by the specified author(s) and you may not claim otherwise. You 
     may, however, notify that you have made changes although you are not required to.
@@ -30,4 +30,4 @@ PolySaken (@Poly_Saken on twitter)
       9. If at any point any one of these requirements are not met, the party responsible is in 
     breach of the license.
     
-This license itself is free to use by anyone for any purpose, without restriction. This license may be adapted for any purpose by any party, with the stipulation that is must not be affiliated with PolySaken in any way.
+This license itself is free to use by anyone for any purpose, without restriction. This license may be adapted for any purpose by any party, with the stipulation that it must not be affiliated with PolySaken in any way (unless permission is granted to do so).
